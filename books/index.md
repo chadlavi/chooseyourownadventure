@@ -11,6 +11,6 @@ You're 14, it's July. You live in Queens, NY. Your mom sends you to run some err
 You grab your backpack and head out.
 
 What do you do first?
-* [BOOK STORE](2)
-* [DRY CLEANING](3)
-* [GROCERY](4)
+* [Go to the book store](2)
+* [Pick up the dry cleaning](3)
+* [Go to the grocery store](4)
