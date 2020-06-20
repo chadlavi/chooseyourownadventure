@@ -100,6 +100,18 @@ Trying to get another look, you pull out even more books, then [goto 14]
 ## 13 get out of the mysterious room
 You're pretty creeped out. You turn to leave the room, but the beaded curtain is gone... all four walls of the room are covered floor to ceiling in stacks of books.
 
+GO TO
+* try to find a way out (14)
 
 ## 14 avalanche!
-You go to pull another book from the stack, but it feels pretty stuck. You pull and you pull... and when the book comes loose, you tumble across the room and crash into the wall of books, which promptly avalanches down over you! dozens of books rain down on you, and as you scramble away you see that now a whole section of the wall is cleared of books. Books are raining down from the ceiling where the stacks used to be, seeming to appear out of thin air... and instead of a wall, you see that there was a 
+You go to pull another book from the stack, but it feels pretty stuck. You pull and you pull... and when the book comes loose, you tumble across the room and crash into the wall of books, which promptly avalanches down over you!
+
+Dozens of books rain down on you, and as you scramble away you see that now a whole section of the wall is cleared of books. Books are falling down from the ceiling where the stacks used to be, at a regular rate of about one per second, seeming to appear out of thin air... and instead of actual walls, you see that this room seems to have walls made entirely of books.
+
+Beyond the opened up section of book-wall, you see there is a dark hallway running from left to right in front of you, with damp, dark stone walls and sputtering torches.
+
+GO TO 
+* explore left
+* explore right
+* (something else?)
+
