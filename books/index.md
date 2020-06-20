@@ -1,7 +1,3 @@
----
-title: exmaple test
----
-
 # The bookshop
 
 ## 1. Start
