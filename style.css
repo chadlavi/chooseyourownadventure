@@ -31,10 +31,6 @@ a {
   color: var(--link);
 }
 
-p {
-  text-indent: 5ch;
-}
-
 footer {
   background-color: var(--background);
   color: var(--text);
