@@ -9,6 +9,9 @@
     {% if page.homelink %}
       <nav>
         <a href="{{ site.github.baseurl }}">Home</a>
+        {% if page.story_base_url %}
+          &middot; <a href="{{ site.github.baseurl }}/{{ page.story_base_url }}">Restart story</a>
+        {% endif %}
       </nav>
     {% endif %}
     {{ content }}

@@ -1,3 +1,7 @@
+---
+story_base_url: books
+---
+
 # The bookshop
 
 ## 1. Start
