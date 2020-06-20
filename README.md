@@ -1,3 +1,3 @@
-# Choose your own adventure
+# Choose your own adventure stories
 
-* [The Bookshop](books)
+This is a repo of some CYOA experiments in [GitHub Pages](https://chadlavi.github.io/chooseyourownadventure/) format
