@@ -1,25 +1,29 @@
 :root {
-  --text: black;
+  /* colors */
   --background: white;
   --link: rgb(0, 0, 238);
+  --text: black;
 }
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --text: white;
+    /* colors */
     --background: black;
     --link: rgb(104, 139, 251);
+    --text: white;
   }
 }
 
 body {
   background-color: var(--background);
+  box-sizing: border-box;
   color: var(--text);
   font-family: monospace, system-ui, sans-serif;
   font-size: 18px;
   line-height: 1.45;
-  margin: 32px auto 128px auto;
-  max-width: calc(100% - 32px);
+  margin: auto;
+  max-width: 100%;
+  padding: 16px;
   width: 70ch;
 }
 
@@ -31,8 +35,14 @@ a {
   color: var(--link);
 }
 
+a[target="_blank"]::after, a.external::after, a[href*="http"]::after {
+  content: ' [\2197]';
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
 footer {
   background-color: var(--background);
+  font-size: 0.75em;
   color: var(--text);
   position: fixed;
   bottom: 0;

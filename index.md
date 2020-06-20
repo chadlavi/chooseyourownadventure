@@ -1,5 +1,5 @@
 ---
-footer: <a href="https://github.com/chadlavi/chooseyourownadventure">GitHub repo</a>
+footer: <a class="external" href="https://github.com/chadlavi/chooseyourownadventure">GitHub repo</a>
 homelink: false
 ---
 
