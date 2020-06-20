@@ -1,3 +1,3 @@
 # Choose your own adventure
 
-* [The Bookshop](/books)
+* [The Bookshop](books)
