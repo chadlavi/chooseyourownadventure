@@ -1,10 +1,4 @@
----
-story_base_url: books
----
-
 # The bookshop
-
-## 1. Start
 
 You're 14, it's July. You live in Queens, NY. Your mom sends you to run some errands:
 * go to the book store and pick up the book she ordered
@@ -16,7 +10,7 @@ You're 14, it's July. You live in Queens, NY. Your mom sends you to run some err
 
 You grab your backpack and head out.
 
-GO TO
+What do you do first?
 * [BOOK STORE](2)
-* DRY CLEANING (3)
-* GROCERY (4)
+* [DRY CLEANING](3)
+* [GROCERY](4)
