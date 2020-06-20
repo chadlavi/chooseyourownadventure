@@ -1,13 +1,13 @@
 ---
 story_base_url: books
+title: The Bookshop
 ---
 
 You go back out to the main room of the book store. 
 
 You look around and see you're standing near several labelled sections...
 
-GO TO
-* [COMIC BOOKS](6)
-* [HISTORY](7)
-* [CHECK THE CARD CATALOG](7a)
-* [WHAT'S IN THAT ROOM LABELLED "DO NOT ENTER"?](8)
+* [Check out the comic books](6)
+* [Check out the history section](7)
+* [Check the card catalog](7a)
+* [Check out the room labelled "DO NOT ENTER" again](8)

@@ -1,4 +1,4 @@
-# The bookshop
+# The Bookshop
 
 You're 14, it's July. You live in Queens, NY. Your mom sends you to run some errands:
 * go to the book store and pick up the book she ordered
