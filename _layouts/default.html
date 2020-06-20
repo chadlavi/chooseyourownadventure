@@ -6,9 +6,11 @@
     <title>{{ page.title }}</title>
   </head>
   <body>
-    <nav>
-      <a href="{{ site.github.baseurl }}">Home</a>
-    </nav>
+    {% if page.homelink %}
+      <nav>
+        <a href="{{ site.github.baseurl }}">Home</a>
+      </nav>
+    {% endif %}
     {{ content }}
     {% if page.footer %}
       <footer>
