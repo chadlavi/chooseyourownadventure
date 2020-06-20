@@ -1,17 +1,19 @@
 <!doctype html>
 <html lang="en">
   <head>
+    <link rel="stylesheet" href="{{ site.github.baseurl }}/style.css" />
     <meta charset="utf-8">
     <title>{{ page.title }}</title>
-    <link rel="stylesheet" href="{{site.github.baseurl}}/style.css" />
   </head>
   <body>
     <nav>
-      <a href="{{site.github.baseurl}}">Home</a>
+      <a href="{{ site.github.baseurl }}">Home</a>
     </nav>
     {{ content }}
-    <footer>
-      &copy; to me
-    </footer>
+    {% if page.footer %}
+      <footer>
+        {{ page.footer }}
+      </footer>
+    {% endif %}
   </body>
 </html>
